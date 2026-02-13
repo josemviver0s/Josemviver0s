@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 🛠️ Technologies & Tools
 
 | Category            | Technologies |
@@ -25,6 +26,12 @@
 | **Soft Skills**     | Attention to detail, organization, empathy, fast learning |
 
 ---
+
+## 🧪 Currently Learning
+
+- **Python for Data Analysis** (pandas, matplotlib, Jupyter)
+
+  
 
 ## 📁 Featured Projects
 
@@ -44,7 +51,13 @@
 </p>
 
 ---
+## ⚡ Fun Facts
 
+- I've worked at **Disney+** and **DoorDash** as **bilingual phone and chat support**.
+- I've been a **Summer Camp Counselor in the USA** through the J-1 visa program — twice!
+
+
+---
 ## 📫 Contact
 
 📧 eMail: Josewdf@gmail.com

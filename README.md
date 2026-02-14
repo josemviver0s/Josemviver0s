@@ -38,7 +38,7 @@
 | Project                                     | Description                                                 | Repository                                                                  |
 |-------------------------------------------- |-----------------------------------------------------------  |----------------------------------------------------------------------------| 
 | 📈 **Temperature & Humidity Data Logger**   | Data export to Excel/CSV format with custom filters.        |[View project](https://github.com/josemviver0s/TempHumidity-Data-Logger-) |
-| 🫀 **ECG Signal Simulator**                 | Cardiac signal simulation for biomedical analysis in Excel. | [View project](https://github.com/josemviver0s/ecg-simulator)             |
+| 🫀 **ECG Signal Simulator**                 | Cardiac signal simulation for biomedical analysis in Excel. | [View project](https://github.com/josemviver0s/ECG-signal-simulator)             |
 | ✅ **Data Integrity Validator**             | Form validation with regex (email, age, zip code).          | [View project](https://github.com/josemviver0s/Data-Integrity-Validator)            |
 
 
